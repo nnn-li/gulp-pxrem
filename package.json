@@ -1,7 +1,7 @@
 {
   "name": "gulp-pxrem",
   "description": "A gulp plugin for px2rem",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/nnn-li/gulp-pxrem",
   "author": "Julian <zanjser@163.com>",
   "repository": {

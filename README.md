@@ -1,9 +1,5 @@
 # gulp-pxrem
 
-This is a gulp plugin for [px2rem](https://www.npmjs.com/package/px2rem)
-
-CLI tool provided in [px2rem](https://www.npmjs.com/package/px2rem)
-
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Downloads][downloads-image]][downloads-url]
@@ -120,6 +116,8 @@ Rem version: `test.debug.css`
 }
 ```
 
+
+CLI tool provided in [px2rem](https://www.npmjs.com/package/px2rem)
 
 
 ## License
