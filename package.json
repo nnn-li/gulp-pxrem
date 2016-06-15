@@ -1,0 +1,32 @@
+{
+  "name": "gulp-pxrem",
+  "description": "A gulp plugin for px2rem",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nnn-li/gulp-pxrem",
+  "author": "Julian <zanjser@163.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nnn-li/gulp-pxrem.git"
+  },
+  "dependencies": {
+    "extend": "^2.0.1",
+    "gulp-util": "^3.0.7",
+    "px2rem": "^0.5.0",
+    "through2": "^0.6.5"
+  },
+  "devDependencies": {
+    "istanbul": "^0.3.22",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha",
+    "cover": "node node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --reporter dot"
+  },
+  "main": "index.js",
+  "keywords": [
+    "rem",
+    "px2rem",
+    "gulp"
+  ],
+  "license": "MIT"
+}
